@@ -40,8 +40,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        
+        <!-- Debug key -->
         <meta-data
 		    android:name="com.google.android.maps.v2.API_KEY"
-		    android:value="AIzaSyCWvyCxZcUziHx3dZusXQTDGKM9VguHQBM"/>
+		    android:value="AIzaSyChph1vKw0tbNlu_ZOCJdaL8VJmiV-FpDk"/>
+        <!-- Release key
+        <meta-data
+		    android:name="com.google.android.maps.v2.API_KEY"
+		    android:value="AIzaSyDR4JXGDeua-xETG5Gx7X8bJWAsmMpldVU"/>
+		 -->
     </application>
 </manifest>
