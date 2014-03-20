@@ -1,2 +1,2 @@
-lolite-manager
+iolite-manager
 ===============
