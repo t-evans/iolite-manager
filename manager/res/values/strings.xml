@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Lolite Manager</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="device_status">Status</string>
 
 </resources>

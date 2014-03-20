@@ -52,7 +52,7 @@ public class DeviceConnectionActivity extends Activity {
 		setContentView(R.layout.activity_device_connection);
 
 		final View controlsView = findViewById(R.id.fullscreen_content_controls);
-		final View contentView = findViewById(R.id.fullscreen_content);
+		final View contentView = findViewById(R.id.connection_status);
 
 		// Set up an instance of SystemUiHider to control the system UI for
 		// this activity.
