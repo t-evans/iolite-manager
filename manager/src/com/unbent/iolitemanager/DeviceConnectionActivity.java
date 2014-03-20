@@ -1,6 +1,7 @@
-package com.unbent.lolitemanager;
+package com.unbent.iolitemanager;
 
-import com.unbent.lolitemanager.util.SystemUiHider;
+import com.unbent.iolitemanager.R;
+import com.unbent.iolitemanager.util.SystemUiHider;
 
 import android.annotation.TargetApi;
 import android.app.Activity;

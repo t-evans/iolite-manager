@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Lolite Manager</string>
+    <string name="app_name">Iolite Manager</string>
     <string name="refresh_button">Refresh</string>
     <string name="device_status">Status</string>
 

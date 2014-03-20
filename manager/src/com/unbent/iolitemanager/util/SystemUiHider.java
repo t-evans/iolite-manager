@@ -1,4 +1,4 @@
-package com.unbent.lolitemanager.util;
+package com.unbent.iolitemanager.util;
 
 import android.app.Activity;
 import android.os.Build;
