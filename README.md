@@ -1,2 +1,2 @@
-insight-manager
+iolite-manager
 ===============
